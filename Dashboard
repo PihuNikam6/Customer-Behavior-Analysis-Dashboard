@@ -1,0 +1,68 @@
+# Project Overview
+
+This project focuses on analyzing retail sales data using Microsoft Excel to understand:
+
+Revenue performance
+
+Customer purchasing behavior
+
+Category-wise sales contribution
+
+Discount patterns
+
+The final output is an interactive Excel dashboard with slicers, charts, and KPIs to support business decision-making.
+
+
+🎯 Objectives
+
+Analyze customer purchase patterns and total spending
+
+Compare category-wise performance (Beauty, Clothing, Electronics, Home Decor, Kitchen)
+
+Track discount usage and impact
+
+Create an interactive, visually appealing Excel dashboard
+
+ools & Excel Features Used
+
+Pivot Tables
+
+Pivot Charts (Bar, Line, Pie)
+
+Slicers & Filters
+
+Conditional Formatting
+
+Data Cleaning (removing duplicates, formatting, normalization)
+
+Excel Formulas (SUMIF, COUNTIF, etc.)
+
+
+📈 Key Dashboard Features
+✔ Sales Performance
+
+Customer-wise purchase amount
+
+Category-wise revenue comparison
+
+Top contributing customers
+
+Grand totals and category-level insights
+
+✔ Customer Behavior Analysis
+
+Discount patterns across customers
+
+Trend analysis using line charts
+
+Contribution distribution using pie charts
+
+✔ Interactive Dashboard
+
+Includes:
+
+Category slicers (Beauty, Clothing, Electronics, Home Décor, Kitchen)
+
+Multiple dashboard views
+
+Interactive visuals for deeper insight
